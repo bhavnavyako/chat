@@ -1,0 +1,15 @@
+apply plugin: 'checkstyle'
+
+check.dependsOn 'checkstyle'
+
+def configDir = "${project.rootDir}/config/quality"
+def reportsDir = "${project.buildDir}/reports"
+
+task checkstyle(type: Checkstyle) {
+    configFile file("$configDir/checkstyle/checkstyle.xml")
+    configProperties.checkstyleSuppressionsPath = file("$configDir/checkstyle/suppressions.xml").absolutePath
+    source 'src'
+    include '**/*.java'
+    exclude '**/gen/**'
+    classpath = files()
+}
