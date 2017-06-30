@@ -1,6 +1,5 @@
 package com.broadcast.chatdemo;
 
-import android.content.Intent;
 import android.graphics.Bitmap;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -10,6 +9,7 @@ import com.broadcast.entities.ChatDo;
 
 public class ImagePreviewActivity extends AppCompatActivity {
 
+    //Try with jenkins
     private ImageView mPreviewedImage;
 
     @Override

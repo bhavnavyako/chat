@@ -52,6 +52,7 @@ import java.util.Timer;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
+    //Try with jenkins
     private Toolbar toolbar;
     private static final int VIDEO_CAPTURE = 101;
     private static final int RESULT_LOAD_VIDEO = 1;
