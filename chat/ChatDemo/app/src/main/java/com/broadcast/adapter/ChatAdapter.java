@@ -2,12 +2,8 @@ package com.broadcast.adapter;
 
 import android.content.Context;
 import android.graphics.Bitmap;
-import android.graphics.Color;
-import android.graphics.drawable.BitmapDrawable;
 import android.media.MediaPlayer;
-import android.media.ThumbnailUtils;
 import android.net.Uri;
-import android.provider.MediaStore;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -22,7 +18,6 @@ import com.broadcast.chatdemo.MediaManager;
 import com.broadcast.chatdemo.R;
 import com.broadcast.entities.ChatDo;
 
-import java.io.File;
 import java.util.ArrayList;
 
 /**
@@ -46,6 +41,7 @@ public class ChatAdapter extends BaseAdapter {
 
     @Override
     public int getCount() {
+        System.out.println("<<");
         return mChatDoArrayList.size();
     }
 
