@@ -17,6 +17,7 @@ import java.util.concurrent.TimeUnit;
 public class MediaManager implements MediaPlayer.OnPreparedListener, MediaPlayer.OnCompletionListener {
     public static MediaManager sInstance;
 ///-----------------------------------------------
+    //==============================
     //Try with jenkins
     private Context mContext = null;
     private ChatDo mChatDo = null;
