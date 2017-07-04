@@ -25,6 +25,7 @@ import java.util.ArrayList;
  */
 public class ChatAdapter extends BaseAdapter {
 
+    //Pull request Notification Test============
     private Context mContext;
     private ArrayList<ChatDo> mChatDoArrayList;
 
