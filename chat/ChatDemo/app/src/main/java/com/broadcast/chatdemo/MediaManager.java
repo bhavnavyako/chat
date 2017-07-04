@@ -18,6 +18,7 @@ public class MediaManager implements MediaPlayer.OnPreparedListener, MediaPlayer
     public static MediaManager sInstance;
 ///-----------------------------------------------
     //==============================
+    //*************************************************
     //Try with jenkins
     private Context mContext = null;
     private ChatDo mChatDo = null;
