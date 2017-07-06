@@ -157,32 +157,42 @@ public class ChatAdapter extends BaseAdapter {
         if (chatDo.isIncomingMsg()) {
             switch (chatDo.getMsgType()) {
                 case ChatDo.MSG_TYPE_TEXT:
-                    if (convertView == null || convertView.getTag(R.layout.activity_list_item_incoming_layout) == null) {
-                        convertView = LayoutInflater.from(mContext).inflate(R.layout.activity_list_item_incoming_layout, parent, false);
+                    if (convertView == null || convertView.getTag(R.layout.
+                            activity_list_item_incoming_layout) == null) {
+                        convertView = LayoutInflater.from(mContext).inflate(R.layout.
+                                activity_list_item_incoming_layout, parent, false);
                         convertView.setTag(R.layout.activity_list_item_incoming_layout, convertView);
                     } else {
-                        convertView = (View) convertView.getTag(R.layout.activity_list_item_incoming_layout);
+                        convertView = (View) convertView.getTag(R.layout.
+                                activity_list_item_incoming_layout);
                     }
                     break;
                 case ChatDo.MSG_STICKER:
-                    if (convertView == null || convertView.getTag(R.layout.activity_list_chat_item_sticker_incoming_layout) == null) {
-                        convertView = LayoutInflater.from(mContext).inflate(R.layout.activity_list_chat_item_sticker_incoming_layout, parent, false);
+                    if (convertView == null || convertView.getTag(R.layout.
+                            activity_list_chat_item_sticker_incoming_layout) == null) {
+                        convertView = LayoutInflater.from(mContext).inflate
+                                (R.layout.activity_list_chat_item_sticker_incoming_layout, parent, false);
                         convertView.setTag(R.layout.activity_list_chat_item_sticker_incoming_layout, convertView);
                     } else {
-                        convertView = (View) convertView.getTag(R.layout.activity_list_chat_item_sticker_incoming_layout);
+                        convertView = (View) convertView.getTag(R.layout.
+                                activity_list_chat_item_sticker_incoming_layout);
                     }
                     break;
                 case ChatDo.MSG__IMAGE:
-                    if (convertView == null || convertView.getTag(R.layout.activity_list_chat_item_incoming_image_layout) == null) {
-                        convertView = LayoutInflater.from(mContext).inflate(R.layout.activity_list_chat_item_incoming_image_layout, parent, false);
+                    if (convertView == null || convertView.getTag(R.layout.
+                            activity_list_chat_item_incoming_image_layout) == null) {
+                        convertView = LayoutInflater.from(mContext).
+                                inflate(R.layout.activity_list_chat_item_incoming_image_layout, parent, false);
                         convertView.setTag(R.layout.activity_list_chat_item_incoming_image_layout, convertView);
                     } else {
                         convertView = (View) convertView.getTag(R.layout.activity_list_chat_item_incoming_image_layout);
                     }
                     break;
                 case ChatDo.MSG_VOICE:
-                    if (convertView == null || convertView.getTag(R.layout.activity_chat_item_audio_incoming_layout) == null) {
-                        convertView = LayoutInflater.from(mContext).inflate(R.layout.activity_chat_item_audio_incoming_layout, parent, false);
+                    if (convertView == null || convertView.getTag
+                            (R.layout.activity_chat_item_audio_incoming_layout) == null) {
+                        convertView = LayoutInflater.from(mContext).
+                                inflate(R.layout.activity_chat_item_audio_incoming_layout, parent, false);
                         convertView.setTag(R.layout.activity_chat_item_audio_incoming_layout, convertView);
                     } else {
                         convertView = (View) convertView.getTag(R.layout.activity_chat_item_audio_incoming_layout);
