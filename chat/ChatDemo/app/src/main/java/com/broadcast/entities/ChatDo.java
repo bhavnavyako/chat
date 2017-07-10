@@ -7,7 +7,7 @@ import android.os.Parcel;
 import android.os.Parcelable;
 import android.provider.MediaStore;
 /*****
- * Just to test.....*******----88888===
+ * Just to test.....*******----88888===00
  * */
 public class ChatDo implements Parcelable {
     public static final int MSG_STATUS_PENDING = 0;  //watch image///
