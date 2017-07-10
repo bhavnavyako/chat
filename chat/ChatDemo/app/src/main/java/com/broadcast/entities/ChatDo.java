@@ -6,7 +6,7 @@ import android.net.Uri;
 import android.os.Parcel;
 import android.os.Parcelable;
 import android.provider.MediaStore;
-/**
+/*****
  * Just to test.....****
  * */
 public class ChatDo implements Parcelable {
