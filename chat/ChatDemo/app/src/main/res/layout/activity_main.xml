@@ -125,6 +125,7 @@
                 android:src="@drawable/ic_insert_emoticon_black_24dp" />
 
             <EditText
+                android:backgroundTint="@color/gray"
                 android:id="@+id/et_message_text"
                 android:layout_width="match_parent"
                 android:layout_height="30dp"
