@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\github\\chat\\ChatDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_face_black_24dp.png",
+        "source": "D:\\github\\chat\\ChatDemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_face_black_24dp.png"
+    },
+    {
+        "merged": "D:\\github\\chat\\ChatDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_insert_emoticon_black_24dp.png",
+        "source": "D:\\github\\chat\\ChatDemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_insert_emoticon_black_24dp.png"
+    },
+    {
+        "merged": "D:\\github\\chat\\ChatDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_party_mode_black_24dp.png",
+        "source": "D:\\github\\chat\\ChatDemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_party_mode_black_24dp.png"
+    }
+]

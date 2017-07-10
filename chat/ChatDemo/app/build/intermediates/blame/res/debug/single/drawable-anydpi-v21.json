@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\github\\chat\\ChatDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_insert_emoticon_black_24dp.xml",
+        "source": "D:\\github\\chat\\ChatDemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_insert_emoticon_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\github\\chat\\ChatDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_party_mode_black_24dp.xml",
+        "source": "D:\\github\\chat\\ChatDemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_party_mode_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\github\\chat\\ChatDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_face_black_24dp.xml",
+        "source": "D:\\github\\chat\\ChatDemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_face_black_24dp.xml"
+    }
+]

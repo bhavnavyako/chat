@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\github\\chat\\ChatDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\chat_bubble_incoming.9.png",
+        "source": "D:\\github\\chat\\ChatDemo\\app\\src\\main\\res\\drawable-xxhdpi\\chat_bubble_incoming.9.png"
+    },
+    {
+        "merged": "D:\\github\\chat\\ChatDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_face_black_24dp.png",
+        "source": "D:\\github\\chat\\ChatDemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_face_black_24dp.png"
+    },
+    {
+        "merged": "D:\\github\\chat\\ChatDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_insert_emoticon_black_24dp.png",
+        "source": "D:\\github\\chat\\ChatDemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_insert_emoticon_black_24dp.png"
+    },
+    {
+        "merged": "D:\\github\\chat\\ChatDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\chat_bubble_outgoing_circular.9.png",
+        "source": "D:\\github\\chat\\ChatDemo\\app\\src\\main\\res\\drawable-xxhdpi\\chat_bubble_outgoing_circular.9.png"
+    },
+    {
+        "merged": "D:\\github\\chat\\ChatDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\chat_bubble_incoming_circular.9.png",
+        "source": "D:\\github\\chat\\ChatDemo\\app\\src\\main\\res\\drawable-xxhdpi\\chat_bubble_incoming_circular.9.png"
+    },
+    {
+        "merged": "D:\\github\\chat\\ChatDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\chat_bubble_outgoing.9.png",
+        "source": "D:\\github\\chat\\ChatDemo\\app\\src\\main\\res\\drawable-xxhdpi\\chat_bubble_outgoing.9.png"
+    },
+    {
+        "merged": "D:\\github\\chat\\ChatDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_party_mode_black_24dp.png",
+        "source": "D:\\github\\chat\\ChatDemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_party_mode_black_24dp.png"
+    }
+]
