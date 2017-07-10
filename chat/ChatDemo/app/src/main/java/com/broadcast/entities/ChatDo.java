@@ -6,10 +6,12 @@ import android.net.Uri;
 import android.os.Parcel;
 import android.os.Parcelable;
 import android.provider.MediaStore;
-
+/**
+ * Just to test
+ * */
 public class ChatDo implements Parcelable {
     public static final int MSG_STATUS_PENDING = 0;  //watch image///
-    public static final int MSG_STATUS_DELIVERED_TO_SERVER = 1; //single tick
+    public static final int MSG_STATUS_DELIVERED_TO_SERVER = 1; //single tick//
     public static final int MSG_STATUS_DELIVERED_TO_CLIENT = 2; //double tick gray
     public static final int MSG_STATUS_READ = 3; //doublc tick blue
 
