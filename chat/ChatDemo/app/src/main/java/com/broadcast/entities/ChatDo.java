@@ -46,7 +46,7 @@ public class ChatDo implements Parcelable {
     public MediaStore.Video getRecordedVideo() {
         return recordedVideo;
     }
-
+//----
     public void setRecordedVideo(MediaStore.Video recordedVideo) {
         this.recordedVideo = recordedVideo;
     }
